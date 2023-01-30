@@ -1,3 +1,3 @@
 # shopify-themes
 
-Impulse - 7.0.1
+Impulse - 7.1.0
