@@ -1,3 +1,6 @@
 # shopify-themes
 
-Impulse - 7.1.0
+# Impulse - 7.1.0
+```
+Age verification
+```
